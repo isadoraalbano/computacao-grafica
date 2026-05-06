@@ -24,7 +24,6 @@ Trabalho de aplicação geometria de objetos - Cubo 3D
    cd build
    cmake --build .
    ```
----
 
    ```sh
    ./NomeDoArquivo.exe
