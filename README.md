@@ -11,7 +11,7 @@ Repositório das entregas da disciplina de Computação Gráfica
 
 Trabalho de aplicação geometria de objetos - Cubo 3D
 
-[➡️ Trabalho geometria cubo](./src/Modulo2/)
+[➡️ Trabalho geometria cubo](./src/Modulo2.cpp/)
 
 ---
 
