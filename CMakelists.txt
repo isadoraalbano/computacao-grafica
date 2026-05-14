@@ -46,7 +46,7 @@ include_directories(${stb_image_SOURCE_DIR})
 set(EXERCISES
     Hello3D
     Modulo2
-   
+    AtividadesVivenciais/AtividadeVivencial1
 )
 
 add_compile_options(-Wno-pragmas)
@@ -70,9 +70,14 @@ if (NOT EXISTS ${GLAD_C_FILE})
     message(FATAL_ERROR "Arquivo glad.c não encontrado! Baixe a GLAD manualmente em https://glad.dav1d.de/ e coloque glad.h em include/glad/ e glad.c em common/")
 endif()
 
-# Cria os executáveis
 foreach(EXERCISE ${EXERCISES})
-    add_executable(${EXERCISE} src/${EXERCISE}.cpp ${GLAD_C_FILE})
-    target_include_directories(${EXERCISE} PRIVATE ${CMAKE_SOURCE_DIR}/include/glad ${glm_SOURCE_DIR} ${stb_image_SOURCE_DIR})
-    target_link_libraries(${EXERCISE} glfw ${OPENGL_LIBS})
+    # Extrai o nome do arquivo sem o diretório para o executável
+    get_filename_component(EXE_NAME ${EXERCISE} NAME)                                                                                                                                       
+    
+    # Adiciona o executável usando o nome do arquivo como nome do executável
+    add_executable(${EXE_NAME} src/${EXERCISE}.cpp ${GLAD_C_FILE})
+
+    # Configura as bibliotecas e include dirs para o executável
+    target_include_directories(${EXE_NAME} PRIVATE ${CMAKE_SOURCE_DIR}/include/glad ${glm_SOURCE_DIR} ${stb_image_SOURCE_DIR})
+    target_link_libraries(${EXE_NAME} glfw ${OPENGL_LIBS} glm::glm)
 endforeach()
