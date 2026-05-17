@@ -4,7 +4,9 @@ Repositório das entregas da disciplina de Computação Gráfica
 ## Entregas Atividades Vivenciais
 
 [➡️ Atividades vivenciais](./src/AtividadesVivenciais/)
+
 [➡️ Imagem Vivencial 1 - Seleção de obj Cubo](./Vivencial1Cube.png/)
+
 [➡️ Imagem Vivencial 2 -  Seleção de obj Suzanne](./Vivencial1Suzanne.png/)
 
 
@@ -13,6 +15,7 @@ Repositório das entregas da disciplina de Computação Gráfica
 ## M1
 
 Instanciando obj
+
 [➡️ Imagem](./Hello3D.png/)
 
 ---
@@ -22,6 +25,7 @@ Instanciando obj
 Trabalho de aplicação geometria de objetos
 
 [➡️ Trabalho geometria cubo](./src/Modulo2.cpp/)
+
 [➡️ Imagem](./Modulo2.png/)
 
 ---
@@ -31,6 +35,7 @@ Trabalho de aplicação geometria de objetos
 Trabalho texturas de objetos
 
 [➡️ Trabalho texturas](./src/Modulo3.cpp/)
+
 [➡️ Imagem](./Modulo3.png/)
 
 ---
