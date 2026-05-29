@@ -39,6 +39,16 @@ Trabalho texturas de objetos
 [➡️ Imagem](./Modulo3.png/)
 
 ---
+
+## M4
+
+Trabalho Iluminação de objetos
+
+[➡️ Trabalho texturas](./src/Modulo4.cpp/)
+
+[➡️ Imagem](./Modulo4.png/)
+
+---
 # Como compilar e executar os códigos utilizando o CMake
 
 1. Ao clonar o repositório localmente, abra o projeto clicando no arquivo executável SetPath
