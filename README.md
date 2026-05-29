@@ -44,7 +44,7 @@ Trabalho texturas de objetos
 
 Trabalho Iluminação de objetos
 
-[➡️ Trabalho texturas](./src/Modulo4.cpp/)
+[➡️ Trabalho iluminação](./src/Modulo4.cpp/)
 
 [➡️ Imagem](./Modulo4.png/)
 
