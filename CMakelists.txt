@@ -47,6 +47,7 @@ set(EXERCISES
     Hello3D
     Modulo2
     Modulo3
+    Modulo4
     AtividadesVivenciais/AtividadeVivencial1
 )
 
