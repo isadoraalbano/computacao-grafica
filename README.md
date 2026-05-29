@@ -5,9 +5,9 @@ Repositório das entregas da disciplina de Computação Gráfica
 
 [➡️ Atividades vivenciais](./src/AtividadesVivenciais/)
 
-[➡️ Imagem Vivencial 1 - Seleção de obj Cubo](./Vivencial1Cube.png/)
+[➡️ Imagem Vivencial 1 - Seleção de obj1 Cubo](./Vivencial1Cube.png/)
 
-[➡️ Imagem Vivencial 2 -  Seleção de obj Suzanne](./Vivencial1Suzanne.png/)
+[➡️ Imagem Vivencial 1 -  Seleção de obj2 Suzanne](./Vivencial1Suzanne.png/)
 
 
 ---
