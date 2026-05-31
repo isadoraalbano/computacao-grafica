@@ -49,6 +49,16 @@ Trabalho Iluminação de objetos
 [➡️ Imagem](./Modulo4.png/)
 
 ---
+
+## M5
+
+Trabalho Camera sintetica
+
+[➡️ Trabalho Iluminação](./src/Modulo5.cpp/)
+
+[➡️ Imagem](./Modulo5.png/)
+
+---
 # Como compilar e executar os códigos utilizando o CMake
 
 1. Ao clonar o repositório localmente, abra o projeto clicando no arquivo executável SetPath
