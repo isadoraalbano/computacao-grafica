@@ -48,6 +48,7 @@ set(EXERCISES
     Modulo2
     Modulo3
     Modulo4
+    Modulo5
     AtividadesVivenciais/AtividadeVivencial1
 )
 
