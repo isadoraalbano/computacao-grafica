@@ -54,7 +54,7 @@ Trabalho Iluminação de objetos
 
 Trabalho Camera sintetica
 
-[➡️ Trabalho Iluminação](./src/Modulo5.cpp/)
+[➡️ Trabalho Câmera](./src/Modulo5.cpp/)
 
 [➡️ Imagem](./Modulo5.png/)
 
