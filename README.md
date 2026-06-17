@@ -59,6 +59,18 @@ Trabalho Camera sintetica
 [➡️ Imagem](./Modulo5.png/)
 
 ---
+
+## M6
+
+Trabalho Trajetórias
+
+[➡️ Trabalho Trajetórias](./src/Modulo6.cpp/)
+
+[➡️ Imagem 1](./Modulo6-1.png/)
+
+[➡️ Imagem 2](./Modulo6-2.png/)
+
+---
 # Como compilar e executar os códigos utilizando o CMake
 
 1. Ao clonar o repositório localmente, abra o projeto clicando no arquivo executável SetPath
