@@ -50,6 +50,7 @@ set(EXERCISES
     Modulo4
     Modulo5
     Modulo6
+    grauB/Diorama
     AtividadesVivenciais/AtividadeVivencial1
 )
 

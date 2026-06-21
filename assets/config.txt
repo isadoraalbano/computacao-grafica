@@ -1,0 +1,24 @@
+
+# camera px py pz yaw pitch fov near far
+# light nome px py pz r g b intensidade ligado
+# object nome obj mtl px py pz rx ry rz escala_uniforme
+# path nome_objeto velocidade loop x1 y1 z1 x2 y2 z2 x3 y3 z3 x4 y4 z4 ...
+
+clearColor 0.12 0.12 0.14
+ambient 0.25
+camera 0.0 2.3 9.0 -90.0 -13.0 45.0 0.1 100.0
+
+light key 2.5 5.0 3.0 1.0 0.94 0.82 1.45 1
+light fill -3.5 2.2 4.0 0.55 0.68 1.0 0.45 1
+light back 0.0 3.7 -4.0 0.80 0.90 1.0 0.70 1
+light tv 0.0 1.5 -1.5 0.5 0.7 1.0 0.8 1
+
+object sala Modelos3D/sala.obj Modelos3D/sala.mtl 0.0 0.0 0.0 0.0 0.0 0.0 0.5
+
+object gato Modelos3D/gato.obj Modelos3D/gato.mtl -1.5 0.0 2.0 0.0 -90.0 0.0 2.0
+
+object bola Modelos3D/bola.obj Modelos3D/bola.mtl -0.5 0.0 -1.8 0.0 -80.0 0.0 0.3
+
+path gato 0.3 2 1.0 0.0 1.0  0.8 0.0 1.0  0.7 0.0 1.0  0.5 0.0 1.0
+
+path bola 0.8 2 -0.5 0.0 -1.8  -0.5 0.8 -1.8  -0.5 0.8 -1.8  -0.5 0.0 -1.8
