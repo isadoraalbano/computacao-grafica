@@ -72,7 +72,7 @@ Trabalho Trajetórias
 
 ---
 
-## M6
+## GRAU B
 
 GRAU B
 
