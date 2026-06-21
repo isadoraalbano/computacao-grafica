@@ -71,6 +71,16 @@ Trabalho Trajetórias
 [➡️ Imagem 2](./Modulo6-2.png/)
 
 ---
+
+## M6
+
+GRAU B
+
+[➡️ Grau B - Diorama ](./src/grauB/Diorama.cpp/)
+
+[➡️ README ](./src/grauB/README.md)
+
+---
 # Como compilar e executar os códigos utilizando o CMake
 
 1. Ao clonar o repositório localmente, abra o projeto clicando no arquivo executável SetPath

@@ -38,3 +38,6 @@ Para a elaboração desta arquitetura, utilizei os seguintes materiais como refe
 - [LearnOpenGL](https://learnopengl.com/) - Joey de Vries (Guias de Lighting e Shaders).
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/) - Anton Gerdelan.
 - Documentação oficial da biblioteca matemática [GLM](https://glm.g-truc.net/0.9.8/index.html).
+
+## LINK GRAVAÇÃO:
+https://asavbrm-my.sharepoint.com/:v:/g/personal/isadoraalbano_edu_unisinos_br/IQD62TkqOklDRLzlnNUcHQyTAdTG9SRW0s4fLqasLO365G8?e=YFk6cN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
