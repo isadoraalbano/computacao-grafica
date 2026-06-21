@@ -12,6 +12,16 @@ Repositório das entregas da disciplina de Computação Gráfica
 
 ---
 
+## GRAU B
+
+GRAU B 20/06
+
+[➡️ Grau B - Diorama ](./src/grauB/Diorama.cpp/)
+
+[➡️ README ](./src/grauB/README.md)
+
+---
+
 ## M1
 
 Instanciando obj
@@ -72,15 +82,6 @@ Trabalho Trajetórias
 
 ---
 
-## GRAU B
-
-GRAU B
-
-[➡️ Grau B - Diorama ](./src/grauB/Diorama.cpp/)
-
-[➡️ README ](./src/grauB/README.md)
-
----
 # Como compilar e executar os códigos utilizando o CMake
 
 1. Ao clonar o repositório localmente, abra o projeto clicando no arquivo executável SetPath
